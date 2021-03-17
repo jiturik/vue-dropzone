@@ -6,7 +6,7 @@
       @vdropzone-file-added="vfileAdded"
       @vdropzone-success="vsuccess"
       @vdropzone-error="verror"
-      @vdropzone-removed-file="vremoved"
+    
       @vdropzone-sending="vsending"
       @vdropzone-success-multiple="vsuccessMuliple"
       @vdropzone-sending-multiple="vsendingMuliple"
